@@ -1,0 +1,32 @@
+[
+    {    "icon":"faCoffe",
+        "name":"DATA SCIENCE",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+    },   
+    {    "icon":"faCoffe",
+        "name":"PROJECT MANAGEMENT ",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+    },   
+    {    "icon":"faCoffe",
+        "name":"WIRELESS",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+    },   
+    {    "icon":"faCoffe",
+        "name":"NETWORK SOLUTIONS",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+    },   
+    {    "icon":"faCoffe",
+        "name":"FIBRE SERVICES",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+    },
+    {    "icon":"faCoffe",
+        "name":"IT MANAGEMENT SERVICES",
+        "description":" Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+
+    }
+]

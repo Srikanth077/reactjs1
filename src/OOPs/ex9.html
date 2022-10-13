@@ -1,0 +1,40 @@
+<script>
+  //Parent/Main/super/Base_class
+
+  class admin 
+  {
+    constructor()
+    {
+        document.write(`Admin Class - Constructor`)
+    }
+
+     myfun()
+     {
+        return "This is AdminFunction";
+     }
+  }
+
+  
+
+  //Child_class/sub/dervied class
+  class user extends admin
+  {
+
+    constructor()
+    {
+        super(); //Admin_class_constructor
+        document.write(`User Class_Constructor.`)
+    }
+
+    myfun()
+     {
+        return `This is UserFunction -<br/> ${super.myfun()} -<br/> `;
+     }
+  }
+
+  var u = new user
+
+  document.write(`ChlidClass-${u.myfun()}<br/>`)
+
+
+</script>

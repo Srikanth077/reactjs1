@@ -1,0 +1,97 @@
+{
+  "user": [
+    {
+      "name": "Srikanth bandari",
+      "email": "srikanth@gmail.com",
+      "phone": 9133882300,
+      "id": 1
+    },
+    {
+      "name": "ameer khan",
+      "email": "ameer@gmail.com",
+      "phone": "9133882333",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "sudheer",
+      "email": "sudheer@gmail.com",
+      "phone": 9133882344
+    },
+    {
+      "id": 5,
+      "name": "hussain",
+      "email": "hussain@gmail.com",
+      "phone": 9133882355
+    },
+    {
+      "id": 6,
+      "name": "thirumal",
+      "email": "tghirumal@gmail.com",
+      "phone": 9133882366
+    },
+    {
+      "name": "keerthy",
+      "email": "keertyi@gmail.com",
+      "phone": "9133882517",
+      "id": 7
+    },
+    {
+      "name": "Ramchander",
+      "email": "ramchander@gmail.com",
+      "phone": 9133882377,
+      "id": 9
+    },
+    {
+      "name": "kethika Sharma",
+      "email": "kethika@gmail.com",
+      "phone": "9786403214",
+      "id": 14
+    },
+    {
+      "name": "M S Dhoni",
+      "email": "msd@gmail.com",
+      "phone": "9007007007",
+      "id": 15
+    }
+  ],
+  "bookings": [
+    {
+      "sno": 1,
+      "databooking": "04-10-2022",
+      "product": "MI Mobile"
+    },
+    {
+      "sno": 2,
+      "databooking": "05-10-2022",
+      "product": "REALME Mobile"
+    },
+    {
+      "sno": 3,
+      "databooking": "06-10-2022",
+      "product": "POCO Mobile"
+    },
+    {
+      "sno": 4,
+      "databooking": "07-10-2022",
+      "product": "IPHONE Mobile"
+    }
+  ],
+  "admin": [
+    {
+      "sno": 1,
+      "uname": "keerthisrikanth",
+      "mobile": 9871236540
+    },
+    {
+      "sno": 2,
+      "uname": "keerthi",
+      "mobile": 9871236541
+    },
+    {
+      "sno": 3,
+      "uname": "srikanth",
+      "mobile": 9871236542
+    }
+  ]
+}

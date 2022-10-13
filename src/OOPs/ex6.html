@@ -1,0 +1,28 @@
+<script>
+  //class_properties/variables
+  class user {
+    //class default function
+
+    myfun1() {
+      document.write("This is Our Defined-Method-1<br/><br/>");
+      this.myfun2();
+    }
+
+    myfun2() {
+      document.write("This is Our Defined-Method-2<br/><br/>");
+      this.myfun3();
+    }
+
+    myfun3() {
+      document.write("This is Our Defined-Method-3<br/><br/>");
+    }
+  }
+
+  //object of the class
+  //var objectName=new className
+
+  var u = new user();
+  u.myfun1();
+
+  //   u.constructor()
+</script>

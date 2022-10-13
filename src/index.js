@@ -1,17 +1,21 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+//Index.js -> Module
+import ReactDom from "react-dom";
+import React from "react";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+// //import home moudle
+// import Home from './home.js'
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//import Bootstrap into css
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+//Import Routing.js
+import Routings from "./components/routings.js";
+
+import { Provider } from "react-redux";
+
+import store from "./store";
+
+ReactDom.render(<Provider store={store}>
+  <Routings/>
+  </Provider>,
+  document.getElementById("root"));
